@@ -1,8 +1,7 @@
 # Midnight theme for Home Assistant
 
 The midnight theme for [Home Assistant]. For background on this project please
-see the Home Assistant Community [forum thread](https://community.home-assistant.io/t/midnight-theme/)
-forums.
+see the Home Assistant Community [forum thread](https://community.home-assistant.io/t/midnight-theme/).
 
 ![midnight theme](example.png)
 
