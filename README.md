@@ -1,20 +1,25 @@
-# Midnight theme for Home Assistant
+# DEPRECATED REPO
+
+There is a new home assistant community [themes
+organization](https://github.com/home-assistant-community-themes). This theme is
+now [maintained
+there](https://github.com/home-assistant-community-themes/midnight). This repo
+is now deprecated but left here for posterity.
+
+## Midnight theme for Home Assistant
 
 The midnight theme for [Home Assistant]. For background on this theme please
 see the Home Assistant Community [forum thread](https://community.home-assistant.io/t/midnight-theme/).
 
 ![midnight theme](example.png)
 
-# Usage
+## Usage
 
-## HACS
+### HACS
 
-TBD - PR pending
+See new [community maintained repo](https://github.com/home-assistant-community-themes/midnight).
 
-~~This theme can be installed using [HACS](https://hacs.netlify.com/). See that
-project for details.~~
-
-## Manual
+### Manual
 
 Add this theme to your Home Assistant configuration for the frontend. See the
 [documentation about custom
@@ -32,7 +37,7 @@ frontend:
   themes: !include_dir_merge_named themes
 ```
 
-# Credits
+## Credits
 
 Thank you to [Marcel Hoffs](https://community.home-assistant.io/u/marcelhoffs)
 for creating the original theme.
